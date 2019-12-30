@@ -17,6 +17,9 @@
       <h2 class="text-center">Welcome to  Infinito Solutions</h2>
       <h2 class="text-center">Welcome to  Infinito Solutions</h2>
       <h2 class="text-center">Arun Chauhan</h2>
+      <h2 class="text-center">Arun Chauhan</h2>
+      <h2 class="text-center">Arun Chauhan</h2>
+      <h2 class="text-center">Arun Chauhan</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
